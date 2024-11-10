@@ -1,5 +1,5 @@
 const information={
-    name: "Presentation",
-    information:"Hi!\n\nI am a computer engineering student and in order to help both the new students and myself I have decided to make this page which is focused on the visualization of classical algorithms.\n\n<u>Over time I will try to add more content and more abstract content apart from visualizations.</u>\n\n<b>All the algorithms used in this page contain their brief explanations and their pseudocodes at the bottom of the page.</b>\n\nI hope it helps you, have a good day!",
+    name: "Anshika Sharma",
+    information:"This Algorithm Visualizer is an interactive tool designed to help users understand the inner workings of complex algorithms by visualizing their step-by-step processes. It provides a hands-on way to explore and learn about several types of algorithms, including sorting algorithms like Bubble Sort, Quick Sort, and Merge Sort, as well as essential graph algorithms like Dijkstra’s shortest path, Depth-First Search (DFS), and Breadth-First Search (BFS). \n I Hope you find this helpful in understanding the working of several algorithms ",
 };
 export default information;
