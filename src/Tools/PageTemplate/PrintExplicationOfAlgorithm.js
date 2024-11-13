@@ -66,14 +66,5 @@ export function printInformation(algorithm)
         
     const text = {__html: algorithm.information};
   
-    return(
-        <div className="ExplicationArea">
-          <h1 className="ExplicationTitle">{algorithm.name}</h1>
-          
-          <div className="ExplicationPseudocodeArea">
-            {pseudocode}
-            {imageAndImageExplications}
-          </div>
-        </div>
-    );
+    
 }
