@@ -69,9 +69,7 @@ export function printInformation(algorithm)
     return(
         <div className="ExplicationArea">
           <h1 className="ExplicationTitle">{algorithm.name}</h1>
-          <div className="ExplicationInformationArea">
-            <span className="ExplicationInformationFont" dangerouslySetInnerHTML={text} />
-          </div>
+          
           <div className="ExplicationPseudocodeArea">
             {pseudocode}
             {imageAndImageExplications}
